@@ -1,9 +1,9 @@
 Smalltalk, voyage futuriste dans le passé !
 
-Si je vous dis années 70 et programmation, vous me parlerez de C, Unix et peut-être même de mainframes ou de la fin des cartes perforées ! Le refactoring, l'agilité, les design patterns et les pratiques craft au sens large semblent alors assez lointaines.
+Si je vous dis années 70 et programmation, vous me parlerez de C, Unix et peut-être même de mainframes ou de la fin des cartes perforées ? 
 
-C'est pourtant à cette même période que Xerox fonde le PARC (Palo Alto Research Center) où est inventé l'informatique moderne : métaphore du bureau, utilisation de la souris, WYSIWYG, IDE et la programmation orientée objet avec le langage Smalltalk.
+A priori les pratiques craftsmanship semblent être à des années lumières de cette époque. Et si je vous disait qu'en fait, elles sont peut-être nées dans ces mêmes années ?
 
-Rejoignez-moi dans le futur d'il y a 50 ans. Je vous ferai découvrir comment le travail du PARC a révolutionné et influencé l'informatique moderne avec la machine Alto mais aussi comment les concepts du langage Smalltalk étaient résolument modernes et précurseurs du crafstmanship.
+Je vous invite à découvrir comment en 1974 le Xerox PARC (Palo Alto Research Center) a révolutionné l'informatique moderne avec la machine Alto, les pratiques de dévelopmmenet avec son langage Smalltalk et aussi comment la redécouverte de ces innovations _"futuristes du passé"_ ont été un tournant dans ma vie de développeur.
 
-Et si, finalement, tout était déjà là à l'époque ?
+On se rejoint dans le futur d'il y a 50 ans?
